@@ -2,9 +2,14 @@
     "devDependencies": {
         "@babel/core": "^7.17.0",
         "@babel/preset-env": "^7.16.0",
+        "@popperjs/core": "^2.11.8",
         "@symfony/webpack-encore": "^4.0.0",
+        "bootstrap": "^5.3.3",
         "core-js": "^3.23.0",
+        "jquery": "^3.7.1",
         "regenerator-runtime": "^0.13.9",
+        "sass": "^1.72.0",
+        "sass-loader": "^13.0.0",
         "webpack": "^5.74.0",
         "webpack-cli": "^4.10.0",
         "webpack-notifier": "^1.15.0"
